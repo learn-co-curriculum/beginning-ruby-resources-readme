@@ -1,5 +1,7 @@
 ### Reading
 
+Try to take a look at these resources before we begin learning Ruby.
+
 ### Learn to Program
 
 * [More About Methods](https://d1b10bmlvqabco.cloudfront.net/attach/hkjtqk0lh4djm/hi3upuga38k1h/hm144ko2ke51/learn_to_program_more_about_methods.pdf)
