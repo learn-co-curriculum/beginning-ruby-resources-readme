@@ -1,6 +1,6 @@
 ### Reading
 
-Try to take a look at these resources before we begin learning Ruby.
+Try to take a look at these resources before we begin learning Ruby. They're great to at least make a note of and come back to later.
 
 ### Learn to Program
 
