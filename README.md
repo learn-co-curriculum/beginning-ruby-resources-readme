@@ -17,3 +17,5 @@ Try to take a look at these resources before we begin learning Ruby. They're gre
 * [Ruby Variables](https://d1b10bmlvqabco.cloudfront.net/attach/hkjtqk0lh4djm/hi3upuga38k1h/hm14603nedcv/programming_ruby_variables.pdf)
 
 * [More About Methods](https://d1b10bmlvqabco.cloudfront.net/attach/hkjtqk0lh4djm/hi3upuga38k1h/hm145ozksq8z/programming_ruby_more_methods.pdf)
+
+<a href='https://learn.co/lessons/beginning-ruby-resources-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
